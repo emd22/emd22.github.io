@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ethanm.ca/static/css/main.bdedfb1d.css",
-    "main.js": "/ethanm.ca/static/js/main.66b3933e.js",
-    "static/js/787.dd4029b4.chunk.js": "/ethanm.ca/static/js/787.dd4029b4.chunk.js",
-    "static/media/screenshot68.png": "/ethanm.ca/static/media/screenshot68.d4049f5a5922769c1877.png",
-    "static/media/pfp.jpg": "/ethanm.ca/static/media/pfp.100a3a4195fbd2eaf23b.jpg",
-    "static/media/multiple-point-shadows.png": "/ethanm.ca/static/media/multiple-point-shadows.51806815ce9456724225.png",
-    "index.html": "/ethanm.ca/index.html",
-    "main.bdedfb1d.css.map": "/ethanm.ca/static/css/main.bdedfb1d.css.map",
-    "main.66b3933e.js.map": "/ethanm.ca/static/js/main.66b3933e.js.map",
-    "787.dd4029b4.chunk.js.map": "/ethanm.ca/static/js/787.dd4029b4.chunk.js.map"
+    "main.css": "/static/css/main.bdedfb1d.css",
+    "main.js": "/static/js/main.1b9e31ba.js",
+    "static/js/787.dd4029b4.chunk.js": "/static/js/787.dd4029b4.chunk.js",
+    "static/media/screenshot68.png": "/static/media/screenshot68.d4049f5a5922769c1877.png",
+    "static/media/pfp.jpg": "/static/media/pfp.100a3a4195fbd2eaf23b.jpg",
+    "static/media/multiple-point-shadows.png": "/static/media/multiple-point-shadows.51806815ce9456724225.png",
+    "index.html": "/index.html",
+    "main.bdedfb1d.css.map": "/static/css/main.bdedfb1d.css.map",
+    "main.1b9e31ba.js.map": "/static/js/main.1b9e31ba.js.map",
+    "787.dd4029b4.chunk.js.map": "/static/js/787.dd4029b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdedfb1d.css",
-    "static/js/main.66b3933e.js"
+    "static/js/main.1b9e31ba.js"
   ]
 }
